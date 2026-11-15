@@ -1,6 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <!-- ほらあな哲学書庫のマーク:書庫の入口のアーチ。黒地に生成り -->
+  <!-- ほらあな哲学書庫のマーク:書庫の入口のアーチ。黒地に生成り。
+       内側のアーチの奥(洞窟の奥の書庫)だけを、書棚の5ジャンルの差し色で塗る(YouTube のアイコンと同じ)。
+       色は橙→朱→紫→青→緑を OKLCH で混ぜた値。途中の色も書いておかないと、あいだが濁る -->
+  <defs><linearGradient id="door" x2="0" y2="1"><stop offset="0" stop-color="#f8a626"/><stop offset=".083" stop-color="#fc9121"/><stop offset=".167" stop-color="#fd7c2e"/><stop offset=".25" stop-color="#fa6741"/><stop offset=".333" stop-color="#f3638f"/><stop offset=".417" stop-color="#d86eca"/><stop offset=".5" stop-color="#ae80f0"/><stop offset=".583" stop-color="#9388f8"/><stop offset=".667" stop-color="#7590f9"/><stop offset=".75" stop-color="#5098f4"/><stop offset=".833" stop-color="#00ace0"/><stop offset=".917" stop-color="#00bab7"/><stop offset="1" stop-color="#2cbd84"/></linearGradient></defs>
   <rect width="64" height="64" rx="12" fill="#000"/>
+  <path d="M24 52V31a8 8 0 0 1 16 0v21z" fill="url(#door)"/>
   <g fill="none" stroke="#f3ede1" stroke-width="5" stroke-linecap="square">
     <path d="M14 54V30a18 18 0 0 1 36 0v24"/>
     <path d="M23 54V31a9 9 0 0 1 18 0v23"/>
