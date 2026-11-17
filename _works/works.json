@@ -53,6 +53,20 @@
       "portrait": "seneca"
     },
     {
+      "slug": "epictetus-enchiridion",
+      "title": "提要(エンケイリディオン)",
+      "author": "エピクテトス",
+      "authorDates": "55頃–135頃",
+      "year": 135,
+      "language": "ギリシア語",
+      "range": "全訳",
+      "originalTitle": "Ἐγχειρίδιον (Enchiridion)",
+      "description": "エピクテトス『提要(エンケイリディオン)』全53章を、ギリシア語原典から日本語に無料で翻訳。「わたしたちの力の及ぶものと、及ばないもの」。ストア派の哲学者が、心を乱されずに生きるための教えを短い章にまとめた。",
+      "shelfNote": "「物事が起こるとおりに起こることを望め」。",
+      "updated": "2026-11-17",
+      "genre": "古代哲学"
+    },
+    {
       "slug": "kant-aufklaerung",
       "title": "啓蒙とは何か",
       "author": "カント",
