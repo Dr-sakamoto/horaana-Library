@@ -67,6 +67,21 @@
       "genre": "古代哲学"
     },
     {
+      "slug": "descartes-methode",
+      "title": "方法序説",
+      "author": "デカルト",
+      "authorDates": "1596–1650",
+      "year": 1637,
+      "language": "フランス語",
+      "range": "全訳",
+      "originalTitle": "Discours de la méthode pour bien conduire sa raison, et chercher la vérité dans les sciences",
+      "description": "デカルト『方法序説』全文を、フランス語原典から日本語に無料で翻訳。「良識は、この世で最も公平に配分されているもの」に始まり、方法の四つの規則と仮の道徳をへて、「われ思う、ゆえにわれあり」に至る。",
+      "shelfNote": "「われ思う、ゆえにわれあり」。",
+      "updated": "2026-11-19",
+      "genre": "近世哲学",
+      "portrait": "descartes"
+    },
+    {
       "slug": "kant-aufklaerung",
       "title": "啓蒙とは何か",
       "author": "カント",
