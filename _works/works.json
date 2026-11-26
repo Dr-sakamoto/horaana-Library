@@ -67,6 +67,21 @@
       "genre": "古代哲学"
     },
     {
+      "slug": "machiavelli-principe",
+      "title": "君主論",
+      "author": "マキャヴェッリ",
+      "authorDates": "1469–1527",
+      "year": 1513,
+      "language": "イタリア語",
+      "range": "全訳",
+      "originalTitle": "Il Principe",
+      "description": "マキャヴェッリ『君主論』全文を、イタリア語原典から日本語に無料で翻訳。君主国はどう手に入れ、どう保つのか。理想ではなく現実の政治を論じ、近代政治思想の出発点となった古典。",
+      "shelfNote": "「他人が強くなる原因をつくる者は、滅びる」。",
+      "updated": "2026-11-25",
+      "genre": "中世・ルネサンス",
+      "portrait": "machiavelli"
+    },
+    {
       "slug": "descartes-methode",
       "title": "方法序説",
       "author": "デカルト",
