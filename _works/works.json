@@ -67,6 +67,21 @@
       "genre": "古代哲学"
     },
     {
+      "slug": "aurelius-meditations",
+      "title": "自省録",
+      "author": "マルクス・アウレリウス",
+      "authorDates": "121–180",
+      "year": 175,
+      "language": "ギリシア語",
+      "range": "全訳",
+      "originalTitle": "Τὰ εἰς ἑαυτόν",
+      "description": "ローマ皇帝マルクス・アウレリウス『自省録』全十二巻を、ギリシア語原典から日本語に無料で翻訳。「朝のうちに自分に言い聞かせておけ」。陣中で自分自身に宛てて書かれた、ストア派の覚え書きの全文。",
+      "shelfNote": "「朝のうちに自分に言い聞かせておけ」。",
+      "updated": "2026-11-28",
+      "genre": "古代哲学",
+      "portrait": "aurelius"
+    },
+    {
       "slug": "machiavelli-principe",
       "title": "君主論",
       "author": "マキャヴェッリ",
